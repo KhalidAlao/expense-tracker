@@ -1,4 +1,4 @@
-# CLI Expense Tracker 💸
+# CLI Expense Tracker 
 
 [![Bash](https://img.shields.io/badge/Language-Bash-%234EAA25?logo=gnu-bash)](https://www.gnu.org/software/bash/)
 [![SQLite](https://img.shields.io/badge/Database-SQLite-%23003B57?logo=sqlite)](https://sqlite.org)
